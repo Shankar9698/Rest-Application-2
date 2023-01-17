@@ -18,5 +18,4 @@ public class EmployeeEntity {
 	public String ename;
 	public String eloc;
 	public String eyoe;
-
 }
